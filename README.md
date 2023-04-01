@@ -23,7 +23,7 @@ python merge_pdf.py -f path/filename1.pdf -f path/filename2.pdf --output_path pa
 ### Help (available parameters)
 
 ```sh
-python merge_pdf.pg --help
+python merge_pdf.py --help
 ```
 
 ```
