@@ -31,7 +31,8 @@ Usage: merge_pdf.py [OPTIONS]
 
 Options:
   -f, --files TEXT        Insert path to pdf file to merge (use parameter
-                          multiple times, once per file path)  -o, --output_path TEXT  Path where new file will be created (without file
+                          multiple times, once per file path) 
+  -o, --output_path TEXT  Path where new file will be created (without file
                           name)
   -n, --output_name TEXT  Name of new file (without .pdf extesion)
   --help                  Show this message and exit.
